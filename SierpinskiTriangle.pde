@@ -12,7 +12,7 @@ public void draw()
 public void mouseDragged()//optional
 {
  if(mouseX>0||mouseY>0){
-   L = L + 2;
+   L = L + 5;
  }
 }
 public void keyPressed(){
